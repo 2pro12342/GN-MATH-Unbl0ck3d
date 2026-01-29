@@ -9,8 +9,8 @@
 
 1. Copy HTML File Code. 
 2. Go to Any HTML Editor: 
-A. WSchools/Wspaces 
-B. https://www.brandonfowler.me/htmlwrite/ 
+- WSchools/Wspaces 
+- https://www.brandonfowler.me/htmlwrite/ 
 
 ## Method 3 
 
