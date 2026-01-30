@@ -1,9 +1,11 @@
 # How to Play: 
 
+("Auto update" HTML file is recommended to use)
+
 ## Method 1 
 
 1. Download File. 
-2. Use Unblocked Files TXT File. 
+2. Use Unblocked Files (TXT File). 
 
 ## Method 2 
 
